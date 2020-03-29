@@ -1,0 +1,7 @@
+Javac *.java
+
+start rmiregistry
+
+Java Server
+
+Java Client
